@@ -1,5 +1,6 @@
 {
   "name": "facerecognitionbrain",
+  "homepage": "https://Pratish315.github.io/facial-recognition-webapp",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
